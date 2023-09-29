@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  gap: 20px;
+}
+.block1,
+.block2,
+.block3 {
+  text-align: center;
+}
